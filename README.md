@@ -22,6 +22,5 @@
   The program handles common HTTP errors and HTML parsing issues. If an error occurs, a descriptive message will be shown to the user.
 
 ## Links and Sources
-  https://requests.readthedocs.io/en/latest/ 
-  https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+  https://requests.readthedocs.io/en/latest/ and https://www.crummy.com/software/BeautifulSoup/bs4/doc/
   
